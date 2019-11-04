@@ -1,0 +1,6 @@
+map http://w6969.com/ 80a05ts1.nxgback.com/
+map http://www.w6969.com/ 80a05ts1.nxgback.com/
+map http://m.w6969.com/ 80a05ts1.nxgback.com/
+map http://tystwt.com/ 80115.160.140.6/
+map http://CDN-17-DNS-01.tystwt.com/ 80115.160.140.6/
+#end##

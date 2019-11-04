@@ -1,0 +1,26 @@
+map http://hh44778.com/ http://13.231.173.238:8080/
+map http://www.hh44778.com/ http://13.231.173.238:8080/
+map http://m.hh44778.com/ http://13.231.173.238:8080/
+map http://hh77881.com/ http://13.231.173.238:8080/
+map http://www.hh77881.com/ http://13.231.173.238:8080/
+map http://m.hh77881.com/ http://13.231.173.238:8080/
+map http://hh77889.com/ http://13.231.173.238:8080/
+map http://www.hh77889.com/ http://13.231.173.238:8080/
+map http://m.hh77889.com/ http://13.231.173.238:8080/
+map http://wap.hh77889.com/ http://13.231.173.238:8080/
+map http://hg44779.com/ http://13.231.173.238:8080/
+map http://www.hg44779.com/ http://13.231.173.238:8080/
+map http://m.hg44779.com/ http://13.231.173.238:8080/
+map http://hg22775.com/ http://13.231.173.238:8080/
+map http://www.hg22775.com/ http://13.231.173.238:8080/
+map http://m.hg22775.com/ http://13.231.173.238:8080/
+map http://hg44771.com/ http://13.231.173.238:8080/
+map http://www.hg44771.com/ http://13.231.173.238:8080/
+map http://m.hg44771.com/ http://13.231.173.238:8080/
+map http://hg44773.com/ http://13.231.173.238:8080/
+map http://www.hg44773.com/ http://13.231.173.238:8080/
+map http://m.hg44773.com/ http://13.231.173.238:8080/
+map http://hg1155.cn/ http://13.231.173.238:8080/
+map http://www.hg1155.cn/ http://13.231.173.238:8080/
+map http://m.hg1155.cn/ http://13.231.173.238:8080/
+#end##

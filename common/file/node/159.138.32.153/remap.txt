@@ -1,0 +1,4 @@
+map http://w6969.com/ 80a05ts1.nxgback.com/
+map http://www.w6969.com/ 80a05ts1.nxgback.com/
+map http://m.w6969.com/ 80a05ts1.nxgback.com/
+#end##

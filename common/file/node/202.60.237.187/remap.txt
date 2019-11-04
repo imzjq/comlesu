@@ -1,0 +1,27 @@
+map http://www.aj.com/ http://127.2.2.1/
+regex_map http://(.*).\hajjs.\cjaslkcjk.\com/ http://125.2.5.8/
+regex_redirect http://(.*).\hajjs.\cjaslkcjk.\com/ http://124.2.2.2/
+regex_map http://(.*).\asdjhk.\com/ http://124.5.2.2/
+regex_redirect http://(.*).\asdjhk.\com/ http://124.52.2.2/
+redirect http://www.ajsck.com/ http://122.5.2.2/
+regex_redirect http://(.*).\test2.\com/ http://124.2.2.2/
+regex_redirect http://(.*).\test3.\com/ http://124.2.2.2/
+redirect http://jkljk.com/ http://124.5.2.2/
+regex_map http://(.*).\jkljk.\com/ http://124.5.2.2/
+map http://casclk.com/ http://123.54.5.5/
+map http://jklss.com/ http://124.5.2.2/
+regex_redirect http://(.*).\jklss.\com/ http://124.5.2.2/
+map http://www.jklss.com/ http://124.5.2.2/
+redirect http://www.jklss.com/ http://124.5.2.2/
+map http://hjlkjskda.com/ http://2.2.2.2/
+redirect http://asdasd-casc.com/ http://121.2.2.2/
+map http://cascasc-casc.com/ http://ascasc.com/
+map http://sasdc.com/ http://124.2.2.2/
+map http://ascascsasc.net/ http://124.2.2.2/
+map http://jkllajklsc.com/ http://jkljaksc.com/
+map http://ascasca2sc.net/ http://124.2.2.2/
+map ws://1ascjkjk.com/ http://123.2.2.2/
+redirect http://jkljkl.com/ http://124.5.5.5/
+redirect http://jklss.com/ http://125.2.2.2/
+map http://jkjkc.com/ http://www.baidu.com/
+#end##

@@ -1,0 +1,10 @@
+map http://kkw0808.com/ 8047.52.206.81/
+map http://www.kkw7070.com/ 8047.52.206.81/
+map http://kkw7070.com/ 8047.52.206.81/
+map http://www.kkw6060.com/ 8047.52.206.81/
+map http://kkw6060.com/ 8047.52.206.81/
+map http://www.kkw0909.com/ 8047.52.206.81/
+map http://kkw0909.com/ 8047.52.206.81/
+map http://livekkw.kkw0909.com/ 8047.52.206.81/
+map http://www.kkw0808.com/ 8047.52.206.81/
+#end##

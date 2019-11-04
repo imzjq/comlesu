@@ -1,0 +1,5 @@
+map http://yaoyao.com/ 801.1.1.1/
+map http://yaoyao-gn.com/ 801.1.1.1/
+map http://mall.hxda101.com/ 8058.82.215.92/
+map http://admin8.mall.hxda101.com/ 8058.82.215.92/
+#end##

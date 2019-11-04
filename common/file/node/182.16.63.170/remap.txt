@@ -1,0 +1,5 @@
+map http://jklss.com/ http://124.5.2.2/
+regex_redirect http://(.*).\jklss.\com/ http://124.5.2.2/
+map http://www.jklss.com/ http://124.5.2.2/
+redirect http://www.jklss.com/ http://124.5.2.2/
+#end##

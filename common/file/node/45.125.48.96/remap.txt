@@ -1,0 +1,9 @@
+map http://asdd.com/ http://127.1.1.1/
+map http://hahaha.com:20/ http://127.1.1.1:30/
+map http://www.1.com:800/ http://12.4.4.4:1000/
+map http://www.2.com/ http://12.4.4.4:1000/
+map http://www.3.com:800/ http://127.5.5.5:1000/
+map http://www.4.com:900/ http://127.5.5.5:1000/
+map http://jkjk.com/ http://127.5.5.8/
+map http://asdaassssd.com/ http://157.8.5.5/
+#end##

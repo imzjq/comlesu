@@ -1,0 +1,7 @@
+=ns1.dnsunions.net:114.55.95.218:1800
+=ns2.dnsunions.net:120.78.224.84:1800
+=ns3.dnsunions.net:101.201.104.106:1800
+=ns4.dnsunions.net:27.151.29.227:1800
+=ns5.dnsunions.net:202.39.213.195:1800
+=cdn666.dnsunions.com:154.209.11.30:60
+=cdn666.dnsunions.com:154.209.11.51:60

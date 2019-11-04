@@ -1,0 +1,5 @@
+map http://allhappyfamily.com/ 8047.244.223.160/
+map http://www.allhappyfamily.com/ 8047.244.223.160/
+map http://user.allhappyfamily.com/ 8047.244.223.160/
+map http://xuadmin.allhappyfamily.com/ 8047.244.223.160/
+#end##

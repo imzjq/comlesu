@@ -1,0 +1,16 @@
+map http://cdnunions.com/ http://218.32.211.17/
+map http://www.cdnunions.com/ http://218.32.211.17/
+regex_map http://[a-z0-9].cdnunions.com/ http://218.32.211.11/
+map http://285166825.cdn.cdnunions.com/ http://218.32.211.11/
+map http://1731178188.cdn.cdnunions.com/ http://218.32.211.11/
+map http://907607712.cdn.cdnunions.com/ http://218.32.211.11/
+map http://jmbaihacker.cdn.cdnunions.com/ http://218.32.211.11/
+map http://13991833.cdn.cdnunions.com/ http://218.32.211.11/
+map http://89802850.cdn.cdnunions.com/ http://218.32.211.11/
+map http://jbsdnsn.cdn.cdnunions.com/ http://218.32.211.11/
+map http://myl666.cdn.cdnunions.com/ http://218.32.211.11/
+map http://cdn-w.cdn.cdnunions.com/ http://218.32.211.11/
+map http://wuxiandns.cdn.cdnunions.com/ http://218.32.211.11/
+map http://ddos-dns.cdn.cdnunions.com/ http://218.32.211.11/
+map http://memxc111.cdn.cdnunions.com/ http://218.32.211.11/
+#end##

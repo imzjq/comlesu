@@ -1,0 +1,15 @@
+map http://www.jkc.com/ http://127.5.5.8/
+regex_redirect http://jkj344kl.com/ http://127.41.1.1/
+regex_redirect http://asdas.com/ http://127.1.1.1/
+map http://tetu.com/ http://127.5.2.2/
+map http://jksjk.com/ http://157.8.5.5/
+map http://asdasassssd.com/ http://157.8.5.5/
+map http://jks2jk.com/ http://157.8.5.5/
+map http://asdasas2sssd.com/ http://157.8.5.5/
+map http://jksss2jk.com/ http://157.8.5.5/
+map http://asdasssas2sssd.com/ http://157.8.5.5/
+map http://jksss2awscascjk.com/ http://157.8.5.5/
+map http://asdasssascascas2sssd.com/ http://157.8.5.5/
+map http://12333.com/ http://127.1.1.1/
+map http://323333.com/ http://1.3.202.3:8080/
+#end##

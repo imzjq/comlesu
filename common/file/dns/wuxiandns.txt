@@ -1,0 +1,8 @@
+=ns1.dns-tw.net:139.224.52.244:3600
+=ns2.dns-tw.net:121.196.237.40:3600
+=ns3.dns-tw.net:27.151.29.51:3600
+=ns4.dns-tw.net:120.27.148.52:3600
+=cdn888.wuxiandns.com:176.113.68.40:60
+=dolgf.wuxiandns.com:174.139.32.130:60
+=txwl.wuxiandns.com:103.107.239.65:60
+=txwl.wuxiandns.com:45.125.48.31:60

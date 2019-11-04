@@ -1,0 +1,6 @@
+=ns1.dnsunions.com:114.55.33.121:3600
+=ns2.dnsunions.com:106.15.36.226:3600
+=ns3.dnsunions.com:59.110.61.47:3600
+=ns4.dnsunions.com:103.40.29.158:3600
+=ns5.dnsunions.com:106.15.57.52:3600
+=ns6.dnsunions.com:114.55.109.190:3600

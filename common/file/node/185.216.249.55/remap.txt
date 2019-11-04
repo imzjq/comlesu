@@ -1,0 +1,25 @@
+map http://118518.com/ http://103.42.191.120/
+map http://www.118518.com/ http://103.42.191.120/
+map http://ag.118518.com/ http://103.42.191.122/
+map http://gw.118518.com/ http://103.42.191.122/
+map http://gfile.118518.com/ http://103.42.191.123/
+map http://file.118518.com/ http://103.42.191.121/
+map http://ctl.118518.com/ http://103.42.191.121/
+map http://188522.com/ http://103.42.191.120/
+map http://www.188522.com/ http://103.42.191.120/
+map http://ag.188522.com/ http://103.42.191.122/
+map http://gw.188522.com/ http://103.42.191.122/
+map http://gfile.188522.com/ http://103.42.191.123/
+map http://file.188522.com/ http://103.42.191.121/
+map http://ctl.188522.com/ http://103.42.191.121/
+map http://db373.com/ http://103.42.191.152/
+map http://www.db373.com/ http://103.42.191.152/
+map http://ag.db373.com/ http://103.42.191.152/
+map http://ctl.db373.com/ http://103.42.191.153/
+map http://file.db373.com/ http://103.42.191.153/
+map http://db393.com/ http://103.42.191.152/
+map http://www.db393.com/ http://103.42.191.152/
+map http://ag.db393.com/ http://103.42.191.152/
+map http://ctl.db393.com/ http://103.42.191.153/
+map http://file.db393.com/ http://103.42.191.153/
+#end##

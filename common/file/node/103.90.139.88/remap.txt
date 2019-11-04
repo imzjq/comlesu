@@ -1,0 +1,11 @@
+map http://www.zgfmcp.cc/ 80160.19.49.238/
+map http://www.zgfmcp1.com/ 80160.19.49.238/
+map http://www.zgfmcp2.com/ 80160.19.49.238/
+map http://www.zgfmcp8.com/ 80160.19.49.238/
+map http://www.zgfmcp9.com/ 80160.19.49.238/
+map http://zgfmcp.cc/ 80160.19.49.238/
+map http://zgfmcp1.com/ 80160.19.49.238/
+map http://zgfmcp2.com/ 80160.19.49.238/
+map http://zgfmcp8.com/ 80160.19.49.238/
+map http://zgfmcp9.com/ 80160.19.49.238/
+#end##

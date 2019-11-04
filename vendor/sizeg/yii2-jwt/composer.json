@@ -1,0 +1,19 @@
+{
+    "name": "sizeg/yii2-jwt",
+    "description": "JWT based on Icobucci",
+    "require": {
+        "php": ">=5.5.0",
+        "lcobucci/jwt": "~3.2.0",
+        "yiisoft/yii2": "*"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "^4.8",
+        "doctrine/instantiator": "1.0.5",
+        "phpdocumentor/reflection-docblock": "3.2.2"
+	},
+    "autoload": {
+        "psr-4": {
+            "sizeg\\jwt\\": ""
+        }
+    }
+}

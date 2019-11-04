@@ -1,0 +1,4 @@
+=ns1.jbsdnsn.net:120.76.206.67:3600
+=ns2.jbsdnsn.net:114.55.235.150:3600
+=ns3.jbsdnsn.net:27.151.28.4:3600
+=ns4.jbsdnsn.net:122.10.130.183:3600

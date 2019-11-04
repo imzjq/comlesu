@@ -1,0 +1,10 @@
+.asdasd.com::ns1.dnsunions.net:14400
+.asdasd.com::ns2.dnsunions.net:14400
+.asdasd.com::ns3.dnsunions.net:14400
+.asdasd.com::ns4.dnsunions.net:14400
+.asdasd.com::ns5.dnsunions.net:14400
+.jkljkl.com::ns1.dnsunions.net:14400
+.jkljkl.com::ns2.dnsunions.net:14400
+.jkljkl.com::ns3.dnsunions.net:14400
+.jkljkl.com::ns4.dnsunions.net:14400
+.jkljkl.com::ns5.dnsunions.net:14400

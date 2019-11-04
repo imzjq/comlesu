@@ -1,0 +1,3 @@
+map http://boxung.com/ 8047.52.109.193/
+map http://test2.boxung.com/ 8047.52.109.193/
+#end##
