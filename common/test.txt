@@ -1,0 +1,1 @@
+true{"url":"http:\/\/example.com\/image.jpg","file":"C:\\work\\ls\\comlesu\\common\\test.txt"}{"url":"http:\/\/example.com\/image.jpg","file":"C:\\work\\ls\\comlesu\\common\\test.txt"}{"url":"http:\/\/example.com\/image.jpg","file":"C:\\work\\ls\\comlesu\\common\\test.txt"}
